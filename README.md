@@ -2,7 +2,9 @@
 
 A small Express web UI that lists running processes (via `systeminformation`) and lets you stop them, sorted by total memory usage.
 
-**Live demo:** _add your hosted URL here once deployed — runs in DEMO_MODE (see below), so it's safe to expose publicly_
+![Remote Task Manager running in demo mode](screenshot.png)
+
+*Running in `DEMO_MODE` — the process list above is simulated, "Stop" is a no-op. See "Deploying a live demo" below to run it live somewhere instead of just viewing this screenshot.*
 
 ## Running locally (real mode)
 
